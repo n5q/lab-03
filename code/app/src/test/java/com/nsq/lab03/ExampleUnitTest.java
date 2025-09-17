@@ -1,4 +1,4 @@
-package com.example.listycitylab3;
+package com.nsq.lab03;
 
 import org.junit.Test;
 
